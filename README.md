@@ -1,6 +1,6 @@
 # Construindo uma API de Chat em Node.Js
 
-Recursos utilizados
+Recursos utilizados:
 
 - Node.Js
 - Express
