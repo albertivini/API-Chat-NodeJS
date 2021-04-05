@@ -9,7 +9,7 @@ MongoDB
 Socket.io
 Jsonwebtoken
 
-# Executar localmente
+## Executar localmente
 
 Caso você deseja executar o projeto na sua máquina local, basta seguir os passos abaixo:
 
